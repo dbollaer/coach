@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.3.4" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/bjeavons/zxcvbn-php" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/bmatzner/fontawesome-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/braincrafted/bootstrap-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/clue/stream-filter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/codete/form-generator-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/components/jquery" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/doctrine-cache-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/eightpoints/guzzle-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/eightpoints/guzzle-wsse-middleware" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/excelwebzone/recaptcha-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/fig/link-util" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/guzzlehttp/guzzle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/guzzlehttp/promises" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/guzzlehttp/psr7" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/hostnet/webpack-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/jdorn/sql-formatter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/kriswallsmith/assetic" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/liip/monitor-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/maba/dependency-injection-extra" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/maba/webpack-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/oyejorge/less.php" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/cache-plugin" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/client-common" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/curl-client" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/discovery" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/guzzle6-adapter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/httplug" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/httplug-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/logger-plugin" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/message" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/message-factory" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/mock-client" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/promise" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/stopwatch-plugin" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/cache" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/http-message" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/link" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/simple-cache" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/qandidate/toggle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/qandidate/toggle-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ramunasd/symfony-container-mocks" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensio/distribution-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensio/generator-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/assetic-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/flex" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/phpunit-bridge" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-apcu" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/swiftmailer-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/symfony" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/webpack-encore-pack" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/systemhaus/guzzle-http-mock" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/twbs/bootstrap" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/huisstijl2016" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/wachtwoord-execution-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/wachtwoord-service-action-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/wachtwoord-validation-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/zendframework/zenddiagnostics" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/bjeavons/zxcvbn-php" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/bmatzner/fontawesome-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/braincrafted/bootstrap-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/clue/stream-filter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/codete/form-generator-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/components/jquery" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/doctrine-cache-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/eightpoints/guzzle-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/eightpoints/guzzle-wsse-middleware" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/excelwebzone/recaptcha-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/fig/link-util" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/guzzlehttp/guzzle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/guzzlehttp/promises" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/guzzlehttp/psr7" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/hostnet/webpack-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/jdorn/sql-formatter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/kriswallsmith/assetic" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/liip/monitor-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/maba/dependency-injection-extra" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/maba/webpack-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/oyejorge/less.php" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/cache-plugin" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/client-common" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/curl-client" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/discovery" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/guzzle6-adapter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/httplug" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/httplug-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/logger-plugin" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/message" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/message-factory" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/mock-client" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/promise" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/php-http/stopwatch-plugin" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/cache" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/http-message" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/link" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/psr/simple-cache" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/qandidate/toggle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/qandidate/toggle-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ramunasd/symfony-container-mocks" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensio/distribution-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensio/generator-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/assetic-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/flex" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/phpunit-bridge" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-apcu" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/swiftmailer-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/symfony" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/symfony/webpack-encore-pack" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/systemhaus/guzzle-http-mock" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/twbs/bootstrap" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/huisstijl2016" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/wachtwoord-execution-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/wachtwoord-service-action-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/ugent/wachtwoord-validation-bundle" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../../wachtwoordweb/vendor/zendframework/zenddiagnostics" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.3, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.2, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.25, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="formatador (v0.2.5, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="guard (v2.14.2, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="guard-compat (v1.2.1, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.9.0, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nenv (v0.3.0, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="notiffany (v0.1.1, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.11.3, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.5.0, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.10, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.7.0, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shellany (v0.0.1, RVM: ruby-2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.20.0, RVM: ruby-2.3.4) [gem]" level="application" />
+  </component>
+</module>
