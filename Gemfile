@@ -7,3 +7,5 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gemspec
 
 gem 'guard-shell'
+gem 'multi_ruby_runner'
+gem 'rubysl-open3'
